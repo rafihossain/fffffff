@@ -10,22 +10,22 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/md-afiqur-rahman-437451193">
-	<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+	<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/rafihossain">
-	<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+	<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://rafihossain.github.io">
-	<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+	<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
-<a href="https://drive.google.com/drive/u/0/folders/1lHBFO7mgYFPmBaBOeDO68npCc50SsBYG">
-	<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/readthedocs.svg" />
+<a href="https://drive.google.com/file/d/1YRzOOFbqh8a_OST19ami4mGBDwWDBVcu/view?usp=sharing">
+	<img align="left" alt="Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/readthedocs.svg" />
 </a>
 <a href="https://twitter.com/ArRafi317087">
-	<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+	<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/arrafi317087/">
-	<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+	<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br />
