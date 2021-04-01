@@ -1,4 +1,4 @@
-### Hi there, I'm Rafi Hossain [website] 👋
+### Hi there, I'm Rafi Hossain 👋
 
 ## I'm a Instructor Web Developer!!
 
@@ -9,12 +9,12 @@
 
 ### Connect with me:
 
-<img align="left" alt="https://www.linkedin.com/in/md-afiqur-rahman-437451193 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="https://github.com/rafihossain | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<img align="left" alt="https://rafihossain.github.io | Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="https://drive.google.com/drive/u/0/folders/1lHBFO7mgYFPmBaBOeDO68npCc50SsBYG | Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/resume.svg" />
-<img align="left" alt="https://twitter.com/ArRafi317087 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="https://www.instagram.com/arrafi317087/ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt=" " width="22px" src="https://www.linkedin.com/in/md-afiqur-rahman-437451193" />
+<img align="left" alt=" | Github" width="22px" src="https://github.com/rafihossain" />
+<img align="left" alt=" | Portfolio" width="22px" src="https://rafihossain.github.io" />
+<img align="left" alt=" | Resume" width="22px" src="https://drive.google.com/drive/u/0/folders/1lHBFO7mgYFPmBaBOeDO68npCc50SsBYG" />
+<img align="left" alt=" | Twitter" width="22px" src="https://twitter.com/ArRafi317087" />
+<img align="left" alt=" | Instagram" width="22px" src="https://www.instagram.com/arrafi317087/" />
 
 <br />
 
