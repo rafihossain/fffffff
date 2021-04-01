@@ -19,7 +19,7 @@
 	<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 <a href="https://drive.google.com/drive/u/0/folders/1lHBFO7mgYFPmBaBOeDO68npCc50SsBYG">
-	<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+	<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/readthedocs.svg" />
 </a>
 <a href="https://twitter.com/ArRafi317087">
 	<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
