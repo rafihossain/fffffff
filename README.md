@@ -18,7 +18,7 @@
 <a href="https://rafihossain.github.io">
 	<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
-<a href="https://drive.google.com/file/d/1YRzOOFbqh8a_OST19ami4mGBDwWDBVcu/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1Wx4rCfMYkk-q2hxrCAJjFb5lffn0tnFe/view?usp=sharing">
 	<img align="left" alt="Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/readthedocs.svg" />
 </a>
 <a href="https://twitter.com/ArRafi317087">
