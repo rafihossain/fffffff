@@ -2,10 +2,11 @@
 
 ## I'm a Instructor || Web Developer!!
 
-- 🌱 I’m currently learning JavaScript 🤣
-- 👯 I’m looking to work with a team
-- 🥅 2021 Goals: Want to become a web developer 
-- ⚡ Fun fact: I'm always learning new things
+Skills: PHP · Laravel · CodeIgniter · JavaScript · Cascading Style Sheets (CSS) · Bootstrap · MySQL REST APIs
+
+- 🥅 I’m currently working on <a href="https://therssoftware.com/">RS Software</a>
+- 🌱 I’m currently learning JavaScript
+- ⚡ Ask me about HTML5, CSS3, JS, Bootstrap, PHP, Laravel, CodeIgniter
 
 ### Connect with me:
 
@@ -18,7 +19,7 @@
 <a href="https://rafihossain.github.io">
 	<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
-<a href="https://drive.google.com/file/d/1Wx4rCfMYkk-q2hxrCAJjFb5lffn0tnFe/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1xdWK4l2X9av_XuYgL85bxSUQkxj5G5zZ/view?usp=share_link">
 	<img align="left" alt="Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/readthedocs.svg" />
 </a>
 <a href="https://twitter.com/ArRafi317087">
