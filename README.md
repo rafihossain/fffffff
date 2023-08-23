@@ -1,12 +1,12 @@
 ### Hi there, I'm Rafi Hossain 👋
 
-## I'm a Instructor || Web Developer!!
+## I'm a Technical Support Engineer || Software Developer || Instructor !!
 
-Skills: PHP · Laravel · CodeIgniter · JavaScript · Cascading Style Sheets (CSS) · Bootstrap · MySQL REST APIs
+Skills: PHP · Laravel · CodeIgniter · JavaScript · MySQL · Vue.js . Cascading Style Sheets (CSS) · Bootstrap · MySQL REST APIs
 
-- 🥅 I’m currently working on <a href="https://therssoftware.com/">RS Software</a>
-- 🌱 I’m currently learning JavaScript
-- ⚡ Ask me about HTML5, CSS3, JS, Bootstrap, PHP, Laravel, CodeIgniter
+- 🥅 I’m currently working on <a href="https://xgenious.com/">Xgenious</a>
+- 🌱 I’m currently learning Tailwind/Vue.js
+- ⚡ Ask me about PHP • Laravel • CodeIgniter • MySQL • Vue.js
 
 ### Connect with me:
 
