@@ -1,80 +1,19 @@
-### Hi there, I'm Rafi Hossain 👋
+### Hi there, I'm Afiqur Rahman Rafi 👋
 
-## I'm a Technical Support Engineer || Software Developer || Instructor !!
-
-Skills: PHP · Laravel · CodeIgniter · JavaScript · MySQL · Vue.js . Cascading Style Sheets (CSS) · Bootstrap · MySQL REST APIs
-
-- 🥅 I’m currently working on <a href="https://xgenious.com/">Xgenious</a>
-- 🌱 I’m currently learning Tailwind/Vue.js
-- ⚡ Ask me about PHP • Laravel • CodeIgniter • MySQL • Vue.js
+I'm a **Software Enthusiast** & **Full Stack Web Developer** from Bangladesh. I love exploring new tech stacks 💻
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/md-afiqur-rahman-437451193">
-	<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/rafihossain">
-	<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://rafihossain.github.io">
-	<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a>
-<a href="https://drive.google.com/file/d/1xdWK4l2X9av_XuYgL85bxSUQkxj5G5zZ/view?usp=share_link">
-	<img align="left" alt="Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/readthedocs.svg" />
-</a>
-<a href="https://twitter.com/ArRafi317087">
-	<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/arrafi317087/">
-	<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafihossain245/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RafiHossain245) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rafi.hossain.3781/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafihossain245/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arrafi245@gmail.com)
+
+- 🥅 I’m currently working on <a href="https://xgenious.com/">Xgenious</a>
+- ⚡ I enjoy programming and sharing knowledge <br/>
+- :e-mail: You can reach me [arrafi245@gmail.com](mailto:arrafi245@gmail.com) <br/>
 
 <br />
 
 ### Languages and Tools:
 
-<a href="https://github.com/rafihossain?tab=repositories">
-	<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</a>
-<a href="https://github.com/rafihossain?tab=repositories">
-	<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-</a>
-<a href="https://github.com/rafihossain?tab=repositories">
-	<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />	
-</a>
-<a href="https://github.com/rafihossain?tab=repositories">
-	<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-</a>
-<a href="https://github.com/rafihossain?tab=repositories">
-	<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-</a>
-<a href="https://github.com/rafihossain?tab=repositories">
-	<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-</a>
-<a href="https://github.com/rafihossain?tab=repositories">
-	<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-</a>
-<a href="https://github.com/rafihossain?tab=repositories">
-	<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-</a>
-<a href="https://github.com/rafihossain?tab=repositories">
-	<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-</a>
-<a href="https://github.com/rafihossain?tab=repositories">
-	<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-</a>
-<a href="https://github.com/rafihossain?tab=repositories">
-	<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-</a>
-<a href="https://github.com/rafihossain?tab=repositories">
-	<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-</a>
-<a href="https://github.com/rafihossain?tab=repositories">
-	<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-</a>
-<a href="https://github.com/rafihossain?tab=repositories">
-	<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</a>
-<a href="https://github.com/rafihossain?tab=repositories">
-	<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-</a>
+[![PHP Badge](https://img.shields.io/badge/-PHP-474A8A?style=for-the-badge&labelColor=black&logo=PHP&logoColor=B0B3D6)](#) [![Laravel Badge](https://img.shields.io/badge/-Laravel-F05340?style=for-the-badge&labelColor=f7f7f7&logo=Laravel&logoColor=F05340)](#) [![Codeigniter Badge](https://img.shields.io/badge/-CodeIgniter-EF4223?style=for-the-badge&labelColor=black&logo=CodeIgniter&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Vue.js Badge](https://img.shields.io/badge/-Vue.js-42b883?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=42b883)](#)
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=white)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![PhpStrom Badge](https://img.shields.io/badge/-PhpStorm-8C54A1?style=for-the-badge&labelColor=black&logo=PhpStorm&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#) [![SourceTree Badge](https://img.shields.io/badge/-SourceTree-0081C9?style=for-the-badge&labelColor=black&logo=SourceTree&logoColor=white)](#)
